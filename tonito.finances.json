@@ -1,0 +1,510 @@
+[{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f605"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "budget": 31,
+  "expenses": 134,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f606"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "budget": -46,
+  "expenses": 211,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f607"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "budget": 10,
+  "expenses": 155,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f608"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18e"
+  },
+  "budget": 68,
+  "expenses": 97,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f609"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18f"
+  },
+  "budget": 23,
+  "expenses": 142,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f60a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd190"
+  },
+  "budget": -33,
+  "expenses": 198,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f60b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd191"
+  },
+  "budget": 77,
+  "expenses": 88,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f60c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd192"
+  },
+  "budget": 0,
+  "expenses": 165,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f60d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd193"
+  },
+  "budget": 45,
+  "expenses": 120,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f60e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd194"
+  },
+  "budget": 55,
+  "expenses": 110,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f60f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd195"
+  },
+  "budget": 9,
+  "expenses": 156,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f610"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd196"
+  },
+  "budget": 30,
+  "expenses": 135,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f611"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd197"
+  },
+  "budget": 64,
+  "expenses": 101,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f612"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd198"
+  },
+  "budget": 21,
+  "expenses": 144,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f613"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd199"
+  },
+  "budget": 5,
+  "expenses": 160,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f614"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "budget": 33,
+  "expenses": 132,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f615"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "budget": -8,
+  "expenses": 173,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f616"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19c"
+  },
+  "budget": -12,
+  "expenses": 177,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f617"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "budget": 0,
+  "expenses": 165,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f618"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "budget": -35,
+  "expenses": 200,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f619"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "budget": 50,
+  "expenses": 115,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f61a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "budget": 8,
+  "expenses": 157,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f61b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "budget": 15,
+  "expenses": 150,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f61c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "budget": 42,
+  "expenses": 123,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f61d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a3"
+  },
+  "budget": -14,
+  "expenses": 179,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f61e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "budget": 0,
+  "expenses": 165,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f61f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "budget": 22,
+  "expenses": 143,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f620"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "budget": -4,
+  "expenses": 169,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f621"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "budget": 54,
+  "expenses": 111,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6666283c9366239f5c49f622"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "budget": 11,
+  "expenses": 154,
+  "salarycap": 165,
+  "createdAt": {
+    "$date": "2024-06-09T22:10:04.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T22:10:04.674Z"
+  }
+}]

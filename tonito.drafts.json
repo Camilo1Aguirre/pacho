@@ -1,0 +1,450 @@
+[{
+  "_id": {
+    "$oid": "665e11dae608f6a86cd19d9a"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c19726a"
+  },
+  "position": 1,
+  "createdAt": {
+    "$date": "2024-06-03T18:56:26.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T18:56:26.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1319e608f6a86cd19d9c"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c197269"
+  },
+  "position": 2,
+  "createdAt": {
+    "$date": "2024-06-03T19:01:45.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:01:45.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1329e608f6a86cd19d9e"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c19726b"
+  },
+  "position": 3,
+  "createdAt": {
+    "$date": "2024-06-03T19:02:01.137Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:02:01.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e133ae608f6a86cd19da0"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c19726c"
+  },
+  "position": 4,
+  "createdAt": {
+    "$date": "2024-06-03T19:02:18.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:02:18.158Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1347e608f6a86cd19da2"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c197268"
+  },
+  "position": 5,
+  "createdAt": {
+    "$date": "2024-06-03T19:02:31.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:02:31.036Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1353e608f6a86cd19da4"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c19726e"
+  },
+  "position": 6,
+  "createdAt": {
+    "$date": "2024-06-03T19:02:43.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:02:43.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e135de608f6a86cd19da6"
+  },
+  "idPlayer": {
+    "$oid": "665d3d883a33723d2bdbc058"
+  },
+  "position": 7,
+  "createdAt": {
+    "$date": "2024-06-03T19:02:53.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:02:53.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1367e608f6a86cd19da8"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c19726d"
+  },
+  "position": 8,
+  "createdAt": {
+    "$date": "2024-06-03T19:03:03.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:03:03.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1370e608f6a86cd19daa"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc05a"
+  },
+  "position": 9,
+  "createdAt": {
+    "$date": "2024-06-03T19:03:12.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:03:12.589Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e137fe608f6a86cd19dac"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c19726f"
+  },
+  "position": 10,
+  "createdAt": {
+    "$date": "2024-06-03T19:03:27.085Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:03:27.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e138be608f6a86cd19dae"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc05b"
+  },
+  "position": 11,
+  "createdAt": {
+    "$date": "2024-06-03T19:03:39.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:03:39.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1394e608f6a86cd19db0"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc87"
+  },
+  "position": 12,
+  "createdAt": {
+    "$date": "2024-06-03T19:03:48.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:03:48.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13a5e608f6a86cd19db2"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c197270"
+  },
+  "position": 13,
+  "createdAt": {
+    "$date": "2024-06-03T19:04:05.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:04:05.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13ade608f6a86cd19db4"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc05c"
+  },
+  "position": 14,
+  "createdAt": {
+    "$date": "2024-06-03T19:04:13.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:04:13.815Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13b7e608f6a86cd19db6"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc05d"
+  },
+  "position": 15,
+  "createdAt": {
+    "$date": "2024-06-03T19:04:23.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:04:23.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13c7e608f6a86cd19db8"
+  },
+  "idPlayer": {
+    "$oid": "665d3d19ce7ec28e5c197271"
+  },
+  "position": 16,
+  "createdAt": {
+    "$date": "2024-06-03T19:04:39.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:04:39.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13cfe608f6a86cd19dba"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc059"
+  },
+  "position": 17,
+  "createdAt": {
+    "$date": "2024-06-03T19:04:47.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:04:47.923Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13d9e608f6a86cd19dbc"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc05e"
+  },
+  "position": 18,
+  "createdAt": {
+    "$date": "2024-06-03T19:04:57.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:04:57.016Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13e3e608f6a86cd19dbe"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc88"
+  },
+  "position": 19,
+  "createdAt": {
+    "$date": "2024-06-03T19:05:07.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:05:07.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e13ece608f6a86cd19dc0"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc05f"
+  },
+  "position": 20,
+  "createdAt": {
+    "$date": "2024-06-03T19:05:16.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:05:16.638Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1403e608f6a86cd19dc2"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc89"
+  },
+  "position": 21,
+  "createdAt": {
+    "$date": "2024-06-03T19:05:39.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:05:39.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e140be608f6a86cd19dc4"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc060"
+  },
+  "position": 22,
+  "createdAt": {
+    "$date": "2024-06-03T19:05:47.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:05:47.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1414e608f6a86cd19dc6"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc8a"
+  },
+  "position": 23,
+  "createdAt": {
+    "$date": "2024-06-03T19:05:56.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:05:56.908Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1421e608f6a86cd19dc8"
+  },
+  "idPlayer": {
+    "$oid": "665d3d893a33723d2bdbc061"
+  },
+  "position": 24,
+  "createdAt": {
+    "$date": "2024-06-03T19:06:09.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:06:09.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e142ae608f6a86cd19dca"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc8b"
+  },
+  "position": 25,
+  "createdAt": {
+    "$date": "2024-06-03T19:06:18.268Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:06:18.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1434e608f6a86cd19dcc"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc8c"
+  },
+  "position": 26,
+  "createdAt": {
+    "$date": "2024-06-03T19:06:28.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:06:28.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e143fe608f6a86cd19dce"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc8d"
+  },
+  "position": 27,
+  "createdAt": {
+    "$date": "2024-06-03T19:06:39.581Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:06:39.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1453e608f6a86cd19dd0"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc8e"
+  },
+  "position": 28,
+  "createdAt": {
+    "$date": "2024-06-03T19:06:59.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:06:59.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e145ce608f6a86cd19dd2"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc8f"
+  },
+  "position": 29,
+  "createdAt": {
+    "$date": "2024-06-03T19:07:08.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:07:08.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e1465e608f6a86cd19dd4"
+  },
+  "idPlayer": {
+    "$oid": "665d3de50a279c5dc486bc90"
+  },
+  "position": 30,
+  "createdAt": {
+    "$date": "2024-06-03T19:07:17.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:07:17.817Z"
+  }
+}]

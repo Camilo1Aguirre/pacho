@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Fast Break",
+  "type": "Speed",
+  "createdAt": {
+    "$date": "2024-06-02T22:20:27.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T22:20:27.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Zone Defense",
+  "type": "Control",
+  "createdAt": {
+    "$date": "2024-06-02T22:20:52.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T22:20:52.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Pick and Roll",
+  "type": "Coordination",
+  "createdAt": {
+    "$date": "2024-06-02T22:21:07.859Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T22:21:07.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Isolation",
+  "type": "Individual",
+  "createdAt": {
+    "$date": "2024-06-02T22:21:20.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T22:21:20.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Man-to-Man",
+  "type": "Pressure",
+  "createdAt": {
+    "$date": "2024-06-02T22:21:32.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T22:21:32.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3a3046b637bf8332840c"
+  },
+  "name": "Draft",
+  "type": "Draft",
+  "createdAt": {
+    "$date": "2024-06-03T03:36:16.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:36:16.584Z"
+  }
+}]

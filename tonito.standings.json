@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "66663b854604c45ee3787ff5"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd190"
+  },
+  "balanceWins": 34,
+  "position": 1,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3787ff7"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd18f"
+  },
+  "balanceWins": 32,
+  "position": 2,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.867Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3787ff9"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "balanceWins": 26,
+  "position": 3,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3787ffb"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "balanceWins": 24,
+  "position": 4,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.874Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3787ffd"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "balanceWins": 20,
+  "position": 5,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3787fff"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "balanceWins": 20,
+  "position": 6,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788001"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd19c"
+  },
+  "balanceWins": 14,
+  "position": 7,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788003"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd198"
+  },
+  "balanceWins": 12,
+  "position": 8,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.885Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788005"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd193"
+  },
+  "balanceWins": 8,
+  "position": 9,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788007"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd197"
+  },
+  "balanceWins": 8,
+  "position": 10,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.891Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788009"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "balanceWins": 6,
+  "position": 11,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378800b"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd18e"
+  },
+  "balanceWins": 6,
+  "position": 12,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.897Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.897Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378800d"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd196"
+  },
+  "balanceWins": 6,
+  "position": 13,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.900Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378800f"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd191"
+  },
+  "balanceWins": 4,
+  "position": 14,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.902Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.902Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788011"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "balanceWins": 2,
+  "position": 15,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788013"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "balanceWins": 2,
+  "position": 16,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.907Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788015"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd192"
+  },
+  "balanceWins": 0,
+  "position": 17,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.910Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788017"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "balanceWins": 0,
+  "position": 18,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.912Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378801b"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd199"
+  },
+  "balanceWins": -2,
+  "position": 19,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378801d"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "balanceWins": -2,
+  "position": 20,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378801f"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "balanceWins": -6,
+  "position": 21,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.923Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788021"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd195"
+  },
+  "balanceWins": -8,
+  "position": 22,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.925Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788023"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd194"
+  },
+  "balanceWins": -12,
+  "position": 23,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788025"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "balanceWins": -12,
+  "position": 24,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.929Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.929Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788027"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "balanceWins": -14,
+  "position": 25,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788029"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "balanceWins": -16,
+  "position": 26,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378802b"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "balanceWins": -28,
+  "position": 27,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378802d"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "balanceWins": -38,
+  "position": 28,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.938Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee378802f"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd1a3"
+  },
+  "balanceWins": -38,
+  "position": 29,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66663b854604c45ee3788031"
+  },
+  "idteam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "balanceWins": -48,
+  "position": 30,
+  "createdAt": {
+    "$date": "2024-06-09T23:32:21.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T23:32:21.943Z"
+  }
+}]

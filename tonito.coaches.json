@@ -1,0 +1,465 @@
+[{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac32"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Gregg Popovich",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac33"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Steve Kerr",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac34"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Doc Rivers",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac35"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Erik Spoelstra",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac36"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Brad Stevens",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac37"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Mike Budenholzer",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac38"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Frank Vogel",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac39"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Nick Nurse",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac3a"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Monty Williams",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac3b"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Rick Carlisle",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac3c"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Quin Snyder",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac3d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Tyronn Lue",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac3e"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Steve Nash",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac3f"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Tom Thibodeau",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac40"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Billy Donovan",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac41"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Jason Kidd",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac42"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Nate McMillan",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac43"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Luke Walton",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac44"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "James Borrego",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac45"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Stan Van Gundy",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac46"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Dwane Casey",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac47"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Scott Brooks",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac48"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Terry Stotts",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac49"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Mark Daigneault",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac4a"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Stephen Silas",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac4b"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Taylor Jenkins",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac4c"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Michael Malone",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac4d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "J.B. Bickerstaff",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac4e"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Chris Finch",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cfd4805f4a2346a26ac4f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Willie Green",
+  "createdAt": {
+    "$date": "2024-06-02T23:16:24.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:16:24.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3abb46b637bf8332840e"
+  },
+  "idStyle": {
+    "$oid": "665d3a3046b637bf8332840c"
+  },
+  "name": "Draft",
+  "createdAt": {
+    "$date": "2024-06-03T03:38:36.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:38:36.044Z"
+  }
+}]

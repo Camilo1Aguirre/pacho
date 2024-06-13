@@ -1,0 +1,589 @@
+[{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "name": "San Antonio Spurs",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac32"
+  },
+  "conference": true,
+  "division": "Southwest",
+  "wins": 22,
+  "loses": 60,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "name": "Golden State Warriors",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac33"
+  },
+  "conference": true,
+  "division": "Pacific",
+  "wins": 44,
+  "loses": 38,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "name": "Philadelphia 76ers",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac34"
+  },
+  "conference": false,
+  "division": "Atlantic",
+  "wins": 54,
+  "loses": 28,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd18e"
+  },
+  "name": "Miami Heat",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac35"
+  },
+  "conference": false,
+  "division": "Southeast",
+  "wins": 44,
+  "loses": 38,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd18f"
+  },
+  "name": "Boston Celtics",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac36"
+  },
+  "conference": false,
+  "division": "Atlantic",
+  "wins": 57,
+  "loses": 25,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd190"
+  },
+  "name": "Milwaukee Bucks",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac37"
+  },
+  "conference": false,
+  "division": "Central",
+  "wins": 58,
+  "loses": 24,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd191"
+  },
+  "name": "Los Angeles Lakers",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac38"
+  },
+  "conference": true,
+  "division": "Pacific",
+  "wins": 43,
+  "loses": 39,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd192"
+  },
+  "name": "Toronto Raptors",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac39"
+  },
+  "conference": false,
+  "division": "Atlantic",
+  "wins": 41,
+  "loses": 41,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd193"
+  },
+  "name": "Phoenix Suns",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac3a"
+  },
+  "conference": true,
+  "division": "Pacific",
+  "wins": 45,
+  "loses": 37,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd194"
+  },
+  "name": "Indiana Pacers",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac3b"
+  },
+  "conference": false,
+  "division": "Central",
+  "wins": 35,
+  "loses": 47,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd195"
+  },
+  "name": "Utah Jazz",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac3c"
+  },
+  "conference": true,
+  "division": "Northwest",
+  "wins": 37,
+  "loses": 45,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd196"
+  },
+  "name": "LA Clippers",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac3d"
+  },
+  "conference": true,
+  "division": "Pacific",
+  "wins": 44,
+  "loses": 38,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd197"
+  },
+  "name": "Brooklyn Nets",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac3e"
+  },
+  "conference": false,
+  "division": "Atlantic",
+  "wins": 45,
+  "loses": 37,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd198"
+  },
+  "name": "New York Knicks",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac3f"
+  },
+  "conference": false,
+  "division": "Atlantic",
+  "wins": 47,
+  "loses": 35,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd199"
+  },
+  "name": "Chicago Bulls",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac40"
+  },
+  "conference": false,
+  "division": "Central",
+  "wins": 40,
+  "loses": 42,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "name": "Dallas Mavericks",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac41"
+  },
+  "conference": true,
+  "division": "Southwest",
+  "wins": 38,
+  "loses": 44,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "name": "Atlanta Hawks",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac42"
+  },
+  "conference": false,
+  "division": "Southeast",
+  "wins": 41,
+  "loses": 41,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd19c"
+  },
+  "name": "Sacramento Kings",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac43"
+  },
+  "conference": true,
+  "division": "Pacific",
+  "wins": 48,
+  "loses": 34,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "name": "Charlotte Hornets",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac44"
+  },
+  "conference": false,
+  "division": "Southeast",
+  "wins": 27,
+  "loses": 55,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "name": "New Orleans Pelicans",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac45"
+  },
+  "conference": true,
+  "division": "Southwest",
+  "wins": 42,
+  "loses": 40,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "name": "Detroit Pistons",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac46"
+  },
+  "conference": false,
+  "division": "Central",
+  "wins": 17,
+  "loses": 65,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "name": "Washington Wizards",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac47"
+  },
+  "conference": false,
+  "division": "Southeast",
+  "wins": 35,
+  "loses": 47,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "name": "Portland Trail Blazers",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac48"
+  },
+  "conference": true,
+  "division": "Northwest",
+  "wins": 33,
+  "loses": 49,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "name": "Oklahoma City Thunder",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac49"
+  },
+  "conference": true,
+  "division": "Northwest",
+  "wins": 40,
+  "loses": 42,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a3"
+  },
+  "name": "Houston Rockets",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac4a"
+  },
+  "conference": true,
+  "division": "Southwest",
+  "wins": 22,
+  "loses": 60,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "name": "Memphis Grizzlies",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac4b"
+  },
+  "conference": true,
+  "division": "Southwest",
+  "wins": 51,
+  "loses": 31,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "name": "Denver Nuggets",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac4c"
+  },
+  "conference": true,
+  "division": "Northwest",
+  "wins": 53,
+  "loses": 29,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "name": "Cleveland Cavaliers",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac4d"
+  },
+  "conference": false,
+  "division": "Central",
+  "wins": 51,
+  "loses": 31,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "name": "Minnesota Timberwolves",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac4e"
+  },
+  "conference": true,
+  "division": "Northwest",
+  "wins": 42,
+  "loses": 40,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "name": "Orlando Magic",
+  "idCoach": {
+    "$oid": "665cfd4805f4a2346a26ac4f"
+  },
+  "conference": false,
+  "division": "Southeast",
+  "wins": 34,
+  "loses": 48,
+  "createdAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:25:51.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "name": "Draft",
+  "idCoach": {
+    "$oid": "665d3abb46b637bf8332840e"
+  },
+  "conference": true,
+  "division": "Draft",
+  "wins": 0,
+  "loses": 0,
+  "createdAt": {
+    "$date": "2024-06-03T03:41:10.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:41:10.867Z"
+  }
+}]

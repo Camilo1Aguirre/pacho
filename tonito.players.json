@@ -1,0 +1,8808 @@
+[{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fc3"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Keldon Johnson",
+  "position": "SF",
+  "med": 78,
+  "age": 24,
+  "contractLength": 3,
+  "salary": 12,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.903Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fc4"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Devin Vassell",
+  "position": "SG",
+  "med": 79,
+  "age": 23,
+  "contractLength": 4,
+  "salary": 14,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fc5"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Tre Jones",
+  "position": "PG",
+  "med": 75,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 9,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fc6"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jakob Poeltl",
+  "position": "C",
+  "med": 81,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 17,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fc7"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Doug McDermott",
+  "position": "SF",
+  "med": 76,
+  "age": 30,
+  "contractLength": 2,
+  "salary": 13,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fc8"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Joshua Primo",
+  "position": "SG",
+  "med": 72,
+  "age": 20,
+  "contractLength": 4,
+  "salary": 8,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fc9"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Zach Collins",
+  "position": "PF",
+  "med": 77,
+  "age": 25,
+  "contractLength": 3,
+  "salary": 10,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fca"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Keita Bates-Diop",
+  "position": "PF",
+  "med": 73,
+  "age": 26,
+  "contractLength": 2,
+  "salary": 7,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fcb"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jock Landale",
+  "position": "C",
+  "med": 74,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fcc"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Romeo Langford",
+  "position": "SG",
+  "med": 71,
+  "age": 23,
+  "contractLength": 1,
+  "salary": 5,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fcd"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Dejounte Murray",
+  "position": "PG",
+  "med": 85,
+  "age": 27,
+  "contractLength": 4,
+  "salary": 18,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0469069aaf65a8b15fce"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18b"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Joshua Richardson",
+  "position": "SG",
+  "med": 79,
+  "age": 30,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:46:49.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd070962f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Stephen Curry",
+  "position": "PG",
+  "med": 96,
+  "age": 36,
+  "contractLength": 2,
+  "salary": 45,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709630"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Klay Thompson",
+  "position": "SG",
+  "med": 89,
+  "age": 34,
+  "contractLength": 1,
+  "salary": 40,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709631"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Andrew Wiggins",
+  "position": "SF",
+  "med": 85,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 33,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709632"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Draymond Green",
+  "position": "PF",
+  "med": 84,
+  "age": 34,
+  "contractLength": 2,
+  "salary": 27,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709633"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Kevon Looney",
+  "position": "C",
+  "med": 79,
+  "age": 28,
+  "contractLength": 2,
+  "salary": 10,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709634"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Jordan Poole",
+  "position": "SG",
+  "med": 82,
+  "age": 25,
+  "contractLength": 3,
+  "salary": 25,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709635"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Jonathan Kuminga",
+  "position": "PF",
+  "med": 78,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709636"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "James Wiseman",
+  "position": "C",
+  "med": 77,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 11,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709637"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Moses Moody",
+  "position": "SG",
+  "med": 75,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 8,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709638"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Gary Payton II",
+  "position": "PG",
+  "med": 74,
+  "age": 31,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd0709639"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Donte DiVincenzo",
+  "position": "SG",
+  "med": 77,
+  "age": 27,
+  "contractLength": 2,
+  "salary": 9,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d04e21655835dd070963a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18c"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Patrick Baldwin Jr.",
+  "position": "SF",
+  "med": 73,
+  "age": 20,
+  "contractLength": 4,
+  "salary": 5,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:48:50.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9cb"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Jalen Green",
+  "position": "SG",
+  "med": 83,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 20,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9cc"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Kevin Porter Jr.",
+  "position": "PG",
+  "med": 81,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 19,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9cd"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Jabari Smith Jr.",
+  "position": "PF",
+  "med": 80,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 18,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9ce"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Alperen Şengün",
+  "position": "C",
+  "med": 79,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 17,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9cf"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Tari Eason",
+  "position": "SF",
+  "med": 78,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 16,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9d0"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Josh Christopher",
+  "position": "SG",
+  "med": 76,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9d1"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Usman Garuba",
+  "position": "PF",
+  "med": 75,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 11,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9d2"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Kenyon Martin Jr.",
+  "position": "SF",
+  "med": 74,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 10,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9d3"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "TyTy Washington",
+  "position": "PG",
+  "med": 73,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 9,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9d4"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Jae'Sean Tate",
+  "position": "SF",
+  "med": 77,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 15,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9d5"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Garrison Mathews",
+  "position": "SG",
+  "med": 72,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 7,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d053da1bd5e627727a9d6"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Daishen Nix",
+  "position": "PG",
+  "med": 70,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 6,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:50:21.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a8604e"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Tyrese Haliburton",
+  "position": "PG",
+  "med": 87,
+  "age": 24,
+  "contractLength": 4,
+  "salary": 33,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.359Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a8604f"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Myles Turner",
+  "position": "C",
+  "med": 85,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86050"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Buddy Hield",
+  "position": "SG",
+  "med": 83,
+  "age": 31,
+  "contractLength": 2,
+  "salary": 27,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86051"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Bennedict Mathurin",
+  "position": "SF",
+  "med": 81,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 20,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86052"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Jalen Smith",
+  "position": "PF",
+  "med": 79,
+  "age": 24,
+  "contractLength": 3,
+  "salary": 19,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86053"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Chris Duarte",
+  "position": "SG",
+  "med": 77,
+  "age": 27,
+  "contractLength": 2,
+  "salary": 17,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86054"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Aaron Nesmith",
+  "position": "SF",
+  "med": 76,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 16,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86055"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Isaiah Jackson",
+  "position": "PF",
+  "med": 75,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 15,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86056"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Andrew Nembhard",
+  "position": "PG",
+  "med": 74,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 12,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86057"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Daniel Theis",
+  "position": "C",
+  "med": 73,
+  "age": 32,
+  "contractLength": 1,
+  "salary": 10,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86058"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "T.J. McConnell",
+  "position": "PG",
+  "med": 72,
+  "age": 32,
+  "contractLength": 2,
+  "salary": 9,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a86059"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Oshae Brissett",
+  "position": "SF",
+  "med": 71,
+  "age": 25,
+  "contractLength": 1,
+  "salary": 8,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d0590a15c3111a8a8605a"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Goga Bitadze",
+  "position": "C",
+  "med": 70,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 7,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:51:44.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5ad"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Donovan Mitchell",
+  "position": "SG",
+  "med": 92,
+  "age": 26,
+  "contractLength": 5,
+  "salary": 40,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5ae"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Rudy Gobert",
+  "position": "C",
+  "med": 90,
+  "age": 29,
+  "contractLength": 4,
+  "salary": 38,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.720Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5af"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Mike Conley",
+  "position": "PG",
+  "med": 88,
+  "age": 34,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.720Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b0"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jordan Clarkson",
+  "position": "SF",
+  "med": 85,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.720Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b1"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Bojan Bogdanovic",
+  "position": "PF",
+  "med": 83,
+  "age": 32,
+  "contractLength": 2,
+  "salary": 28,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b2"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Joe Ingles",
+  "position": "SF",
+  "med": 81,
+  "age": 34,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b3"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Royce O'Neale",
+  "position": "PF",
+  "med": 79,
+  "age": 29,
+  "contractLength": 2,
+  "salary": 22,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b4"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Rudy Gay",
+  "position": "PF",
+  "med": 77,
+  "age": 35,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b5"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Eric Paschall",
+  "position": "PF",
+  "med": 76,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b6"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Hassan Whiteside",
+  "position": "C",
+  "med": 75,
+  "age": 32,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b7"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Yudai Baba",
+  "position": "SG",
+  "med": 74,
+  "age": 28,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b8"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Jared Butler",
+  "position": "PG",
+  "med": 73,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 10,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d05cc8b1b38e5b828f5b9"
+  },
+  "idTeam": {
+    "$oid": "665cff88da591cb24e7fd195"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Elijah Hughes",
+  "position": "SG",
+  "med": 72,
+  "age": 24,
+  "contractLength": 1,
+  "salary": 8,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:52:44.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc896c"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Kawhi Leonard",
+  "position": "SF",
+  "med": 95,
+  "age": 32,
+  "contractLength": 4,
+  "salary": 45,
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.980Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc896d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Paul George",
+  "position": "SG",
+  "med": 92,
+  "age": 31,
+  "contractLength": 4,
+  "salary": 42,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc896e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Marcus Morris Sr.",
+  "position": "PF",
+  "med": 86,
+  "age": 32,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc896f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Ivica Zubac",
+  "position": "C",
+  "med": 82,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8970"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Nicolas Batum",
+  "position": "SF",
+  "med": 80,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8971"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Terance Mann",
+  "position": "SG",
+  "med": 78,
+  "age": 25,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8972"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Reggie Jackson",
+  "position": "PG",
+  "med": 76,
+  "age": 31,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8973"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Luke Kennard",
+  "position": "SG",
+  "med": 74,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 15,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8974"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Eric Bledsoe",
+  "position": "PG",
+  "med": 72,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8975"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Serge Ibaka",
+  "position": "C",
+  "med": 70,
+  "age": 32,
+  "contractLength": 1,
+  "salary": 10,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8976"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Amir Coffey",
+  "position": "SF",
+  "med": 68,
+  "age": 24,
+  "contractLength": 1,
+  "salary": 8,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06042a477c5e5bfc8977"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd196"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Brandon Boston Jr.",
+  "position": "SG",
+  "med": 66,
+  "age": 20,
+  "contractLength": 2,
+  "salary": 6,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:53:40.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df509"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Kevin Durant",
+  "position": "SF",
+  "med": 96,
+  "age": 35,
+  "contractLength": 3,
+  "salary": 50,
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df50a"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "James Harden",
+  "position": "SG",
+  "med": 93,
+  "age": 34,
+  "contractLength": 3,
+  "salary": 48,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df50b"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Kyrie Irving",
+  "position": "PG",
+  "med": 90,
+  "age": 31,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df50c"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Blake Griffin",
+  "position": "PF",
+  "med": 85,
+  "age": 33,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df50d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "DeAndre Jordan",
+  "position": "C",
+  "med": 82,
+  "age": 34,
+  "contractLength": 1,
+  "salary": 30,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df50e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Joe Harris",
+  "position": "SG",
+  "med": 80,
+  "age": 30,
+  "contractLength": 3,
+  "salary": 25,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df50f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Bruce Brown",
+  "position": "PG",
+  "med": 78,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df510"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Nicolas Claxton",
+  "position": "C",
+  "med": 76,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df511"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Paul Millsap",
+  "position": "PF",
+  "med": 74,
+  "age": 37,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df512"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Patty Mills",
+  "position": "PG",
+  "med": 72,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df513"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Kessler Edwards",
+  "position": "SF",
+  "med": 70,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 10,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d067a9940d9f6507df514"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd197"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Cam Thomas",
+  "position": "SG",
+  "med": 68,
+  "age": 20,
+  "contractLength": 3,
+  "salary": 8,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-02T23:55:38.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:55:38.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b6624"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Julius Randle",
+  "position": "PF",
+  "med": 89,
+  "age": 28,
+  "contractLength": 4,
+  "salary": 40,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b6625"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "RJ Barrett",
+  "position": "SG",
+  "med": 86,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b6626"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Evan Fournier",
+  "position": "SF",
+  "med": 82,
+  "age": 30,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b6627"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Nerlens Noel",
+  "position": "C",
+  "med": 78,
+  "age": 27,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b6628"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Kemba Walker",
+  "position": "PG",
+  "med": 76,
+  "age": 32,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b6629"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Mitchell Robinson",
+  "position": "C",
+  "med": 74,
+  "age": 24,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b662a"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Derrick Rose",
+  "position": "PG",
+  "med": 72,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b662b"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Obi Toppin",
+  "position": "PF",
+  "med": 70,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b662c"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Immanuel Quickley",
+  "position": "SG",
+  "med": 68,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 10,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b662d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Quentin Grimes",
+  "position": "SG",
+  "med": 66,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 8,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b662e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Miles McBride",
+  "position": "PG",
+  "med": 64,
+  "age": 20,
+  "contractLength": 3,
+  "salary": 5,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06b328dd4b46be0b662f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd198"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Kevin Knox II",
+  "position": "SF",
+  "med": 62,
+  "age": 23,
+  "contractLength": 1,
+  "salary": 3,
+  "rating": 2.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:56:35.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e8c"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Giannis Antetokounmpo",
+  "position": "PF",
+  "med": 96,
+  "age": 29,
+  "contractLength": 5,
+  "salary": 45,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.441Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e8d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Khris Middleton",
+  "position": "SF",
+  "med": 88,
+  "age": 30,
+  "contractLength": 4,
+  "salary": 40,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e8e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Jrue Holiday",
+  "position": "PG",
+  "med": 84,
+  "age": 31,
+  "contractLength": 4,
+  "salary": 35,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e8f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Brook Lopez",
+  "position": "C",
+  "med": 80,
+  "age": 33,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e90"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Donte DiVincenzo",
+  "position": "SG",
+  "med": 76,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e91"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Bobby Portis",
+  "position": "PF",
+  "med": 74,
+  "age": 27,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e92"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Pat Connaughton",
+  "position": "SF",
+  "med": 72,
+  "age": 29,
+  "contractLength": 2,
+  "salary": 15,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e93"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "George Hill",
+  "position": "PG",
+  "med": 70,
+  "age": 36,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e94"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Thanasis Antetokounmpo",
+  "position": "SF",
+  "med": 68,
+  "age": 30,
+  "contractLength": 1,
+  "salary": 10,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e95"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Jordan Nwora",
+  "position": "SF",
+  "med": 66,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 8,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e96"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Sandro Mamukelashvili",
+  "position": "PF",
+  "med": 64,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 5,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d06f20eab29093a1f1e97"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd190"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Grayson Allen",
+  "position": "SG",
+  "med": 62,
+  "age": 26,
+  "contractLength": 1,
+  "salary": 3,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T23:57:38.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bd7"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "LeBron James",
+  "position": "SF",
+  "med": 98,
+  "age": 39,
+  "contractLength": 1,
+  "salary": 50,
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bd8"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Anthony Davis",
+  "position": "PF",
+  "med": 94,
+  "age": 31,
+  "contractLength": 5,
+  "salary": 45,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bd9"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Russell Westbrook",
+  "position": "PG",
+  "med": 90,
+  "age": 35,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bda"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Carmelo Anthony",
+  "position": "PF",
+  "med": 86,
+  "age": 40,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bdb"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Dwight Howard",
+  "position": "C",
+  "med": 82,
+  "age": 38,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bdc"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Malik Monk",
+  "position": "SG",
+  "med": 78,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 15,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bdd"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Talen Horton-Tucker",
+  "position": "SF",
+  "med": 74,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 10,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bde"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Kent Bazemore",
+  "position": "SG",
+  "med": 70,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 8,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314bdf"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Marc Gasol",
+  "position": "C",
+  "med": 66,
+  "age": 38,
+  "contractLength": 1,
+  "salary": 5,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314be0"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Wayne Ellington",
+  "position": "SG",
+  "med": 62,
+  "age": 35,
+  "contractLength": 1,
+  "salary": 3,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d07f3fca3bf8e3a314be1"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd191"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Carmelo Anthony",
+  "position": "PF",
+  "med": 58,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 2,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T00:01:55.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T00:01:55.873Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa277"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Pascal Siakam",
+  "position": "PF",
+  "med": 91,
+  "age": 30,
+  "contractLength": 4,
+  "salary": 40,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa278"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Fred VanVleet",
+  "position": "PG",
+  "med": 87,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa279"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "OG Anunoby",
+  "position": "SF",
+  "med": 83,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa27a"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Goran Dragic",
+  "position": "PG",
+  "med": 79,
+  "age": 36,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa27b"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Gary Trent Jr.",
+  "position": "SG",
+  "med": 75,
+  "age": 24,
+  "contractLength": 3,
+  "salary": 15,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa27c"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Chris Boucher",
+  "position": "C",
+  "med": 71,
+  "age": 28,
+  "contractLength": 2,
+  "salary": 10,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa27d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Scottie Barnes",
+  "position": "SF",
+  "med": 67,
+  "age": 20,
+  "contractLength": 4,
+  "salary": 8,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa27e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Dalano Banton",
+  "position": "PG",
+  "med": 63,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 5,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa27f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Precious Achiuwa",
+  "position": "PF",
+  "med": 59,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 3,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d19ea27a1725f903fa280"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd192"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Yuta Watanabe",
+  "position": "SF",
+  "med": 55,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 2,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T01:18:34.146Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:18:34.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3db"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Devin Booker",
+  "position": "SG",
+  "med": 93,
+  "age": 27,
+  "contractLength": 5,
+  "salary": 45,
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3dc"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Chris Paul",
+  "position": "PG",
+  "med": 90,
+  "age": 38,
+  "contractLength": 2,
+  "salary": 40,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3dd"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Deandre Ayton",
+  "position": "C",
+  "med": 86,
+  "age": 24,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3de"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Mikal Bridges",
+  "position": "SF",
+  "med": 82,
+  "age": 25,
+  "contractLength": 4,
+  "salary": 30,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3df"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Jae Crowder",
+  "position": "PF",
+  "med": 78,
+  "age": 31,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3e0"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Landry Shamet",
+  "position": "SG",
+  "med": 74,
+  "age": 25,
+  "contractLength": 3,
+  "salary": 20,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3e1"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Cameron Johnson",
+  "position": "SF",
+  "med": 70,
+  "age": 24,
+  "contractLength": 4,
+  "salary": 15,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3e2"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Cameron Payne",
+  "position": "PG",
+  "med": 66,
+  "age": 27,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3e3"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jalen Smith",
+  "position": "PF",
+  "med": 62,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 8,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1b3e0fddb31585a2d3e4"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd193"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Elfrid Payton",
+  "position": "PG",
+  "med": 58,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 5,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:24:14.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449ab"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Jayson Tatum",
+  "position": "SF",
+  "med": 90,
+  "age": 25,
+  "contractLength": 5,
+  "salary": 45,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.929Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.929Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449ac"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Jaylen Brown",
+  "position": "SG",
+  "med": 88,
+  "age": 26,
+  "contractLength": 4,
+  "salary": 42,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449ad"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Al Horford",
+  "position": "C",
+  "med": 85,
+  "age": 36,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449ae"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Marcus Smart",
+  "position": "PG",
+  "med": 82,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449af"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Robert Williams III",
+  "position": "C",
+  "med": 78,
+  "age": 24,
+  "contractLength": 3,
+  "salary": 28,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449b0"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Josh Richardson",
+  "position": "SF",
+  "med": 80,
+  "age": 29,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449b1"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Derrick White",
+  "position": "PG",
+  "med": 79,
+  "age": 27,
+  "contractLength": 3,
+  "salary": 24,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449b2"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Grant Williams",
+  "position": "PF",
+  "med": 78,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 22,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449b3"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Romeo Langford",
+  "position": "SG",
+  "med": 75,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449b4"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Aaron Nesmith",
+  "position": "SF",
+  "med": 73,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 18,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449b5"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Juancho Hernangomez",
+  "position": "PF",
+  "med": 72,
+  "age": 26,
+  "contractLength": 2,
+  "salary": 16,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1cab6ba886b9709449b6"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Sam Hauser",
+  "position": "SF",
+  "med": 70,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 14,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:30:19.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f84"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "De'Aaron Fox",
+  "position": "PG",
+  "med": 87,
+  "age": 24,
+  "contractLength": 5,
+  "salary": 40,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f85"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Tyrese Haliburton",
+  "position": "SG",
+  "med": 84,
+  "age": 22,
+  "contractLength": 4,
+  "salary": 35,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f86"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Buddy Hield",
+  "position": "SG",
+  "med": 83,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 32,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f87"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Harrison Barnes",
+  "position": "SF",
+  "med": 80,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f88"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Richaun Holmes",
+  "position": "C",
+  "med": 79,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 28,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f89"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Marvin Bagley III",
+  "position": "PF",
+  "med": 78,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f8a"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Terence Davis",
+  "position": "SG",
+  "med": 77,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 22,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f8b"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Davion Mitchell",
+  "position": "PG",
+  "med": 76,
+  "age": 22,
+  "contractLength": 4,
+  "salary": 20,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f8c"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Chimezie Metu",
+  "position": "PF",
+  "med": 74,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f8d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Justin Holiday",
+  "position": "SF",
+  "med": 72,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.437Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f8e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Louis King",
+  "position": "SF",
+  "med": 70,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.437Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1d2b1afc9a936aef1f8f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd19c"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Neemias Queta",
+  "position": "C",
+  "med": 68,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 10,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:32:27.437Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:32:27.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef1d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Joel Embiid",
+  "position": "C",
+  "med": 91,
+  "age": 28,
+  "contractLength": 5,
+  "salary": 45,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef1e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Ben Simmons",
+  "position": "PG",
+  "med": 88,
+  "age": 25,
+  "contractLength": 4,
+  "salary": 42,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef1f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Tobias Harris",
+  "position": "PF",
+  "med": 85,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 38,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef20"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Seth Curry",
+  "position": "SG",
+  "med": 82,
+  "age": 31,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef21"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Matisse Thybulle",
+  "position": "SF",
+  "med": 79,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef22"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Tyrese Maxey",
+  "position": "PG",
+  "med": 78,
+  "age": 21,
+  "contractLength": 4,
+  "salary": 28,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef23"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Andre Drummond",
+  "position": "C",
+  "med": 76,
+  "age": 28,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef24"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "George Hill",
+  "position": "PG",
+  "med": 74,
+  "age": 35,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef25"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Furkan Korkmaz",
+  "position": "SF",
+  "med": 72,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef26"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Paul Reed",
+  "position": "PF",
+  "med": 70,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 15,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef27"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Isaiah Joe",
+  "position": "SG",
+  "med": 68,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f3f482971a81a09ef28"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Aaron Henry",
+  "position": "SG",
+  "med": 66,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 10,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:41:19.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f79"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Jimmy Butler",
+  "position": "SF",
+  "med": 90,
+  "age": 32,
+  "contractLength": 4,
+  "salary": 45,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.003Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f7a"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Bam Adebayo",
+  "position": "C",
+  "med": 88,
+  "age": 25,
+  "contractLength": 5,
+  "salary": 42,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f7b"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Kyle Lowry",
+  "position": "PG",
+  "med": 85,
+  "age": 36,
+  "contractLength": 2,
+  "salary": 38,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f7c"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Duncan Robinson",
+  "position": "SG",
+  "med": 82,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f7d"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Tyler Herro",
+  "position": "SG",
+  "med": 79,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f7e"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "PJ Tucker",
+  "position": "PF",
+  "med": 76,
+  "age": 36,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f7f"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Markieff Morris",
+  "position": "PF",
+  "med": 74,
+  "age": 32,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f80"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Dewayne Dedmon",
+  "position": "C",
+  "med": 72,
+  "age": 32,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f81"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Caleb Martin",
+  "position": "SF",
+  "med": 70,
+  "age": 26,
+  "contractLength": 2,
+  "salary": 15,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f82"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Omer Yurtseven",
+  "position": "C",
+  "med": 68,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f83"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Goran Dragic",
+  "position": "PG",
+  "med": 66,
+  "age": 35,
+  "contractLength": 1,
+  "salary": 10,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.005Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1f99f01ce4f2168e9f84"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd18e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Max Strus",
+  "position": "SG",
+  "med": 64,
+  "age": 26,
+  "contractLength": 2,
+  "salary": 8,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:42:50.005Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:42:50.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c0"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Zach LaVine",
+  "position": "SG",
+  "med": 88,
+  "age": 27,
+  "contractLength": 4,
+  "salary": 40,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.769Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c1"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Nikola Vučević",
+  "position": "C",
+  "med": 86,
+  "age": 31,
+  "contractLength": 3,
+  "salary": 38,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c2"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Lonzo Ball",
+  "position": "PG",
+  "med": 83,
+  "age": 24,
+  "contractLength": 4,
+  "salary": 35,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c3"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "DeMar DeRozan",
+  "position": "SF",
+  "med": 86,
+  "age": 32,
+  "contractLength": 3,
+  "salary": 38,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c4"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Alex Caruso",
+  "position": "PG",
+  "med": 78,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c5"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Patrick Williams",
+  "position": "PF",
+  "med": 76,
+  "age": 20,
+  "contractLength": 3,
+  "salary": 25,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c6"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Coby White",
+  "position": "PG",
+  "med": 74,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c7"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Javonte Green",
+  "position": "SF",
+  "med": 72,
+  "age": 28,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c8"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Troy Brown Jr.",
+  "position": "SF",
+  "med": 70,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 15,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9c9"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Tony Bradley",
+  "position": "C",
+  "med": 68,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9ca"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Alize Johnson",
+  "position": "PF",
+  "med": 66,
+  "age": 25,
+  "contractLength": 1,
+  "salary": 10,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d1ffc48e2d2db7afdb9cb"
+  },
+  "idTeam": {
+    "$oid": "665cff8bda591cb24e7fd199"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Javari Parker",
+  "position": "PF",
+  "med": 64,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 8,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:44:28.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:44:28.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69afe9"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Luka Dončić",
+  "position": "PG",
+  "med": 92,
+  "age": 23,
+  "contractLength": 5,
+  "salary": 50,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.487Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69afea"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Kristaps Porziņģis",
+  "position": "C",
+  "med": 88,
+  "age": 26,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69afeb"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Tim Hardaway Jr.",
+  "position": "SG",
+  "med": 82,
+  "age": 29,
+  "contractLength": 4,
+  "salary": 35,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69afec"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Dorian Finney-Smith",
+  "position": "SF",
+  "med": 79,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69afed"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Maxi Kleber",
+  "position": "PF",
+  "med": 77,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 28,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69afee"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Dwight Powell",
+  "position": "C",
+  "med": 75,
+  "age": 30,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69afef"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Reggie Bullock",
+  "position": "SF",
+  "med": 72,
+  "age": 31,
+  "contractLength": 3,
+  "salary": 20,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69aff0"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Trey Burke",
+  "position": "PG",
+  "med": 70,
+  "age": 29,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69aff1"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Jalen Brunson",
+  "position": "PG",
+  "med": 68,
+  "age": 25,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69aff2"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Josh Green",
+  "position": "SF",
+  "med": 66,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69aff3"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Moses Brown",
+  "position": "C",
+  "med": 64,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 10,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d21be0bbd5e5b8d69aff4"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19a"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Tyrell Terry",
+  "position": "PG",
+  "med": 62,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 8,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:51:58.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:51:58.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb36"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Trae Young",
+  "position": "PG",
+  "med": 91,
+  "age": 23,
+  "contractLength": 4,
+  "salary": 48,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb37"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "John Collins",
+  "position": "PF",
+  "med": 87,
+  "age": 24,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb38"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Bogdan Bogdanović",
+  "position": "SG",
+  "med": 84,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 42,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb39"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "De'Andre Hunter",
+  "position": "SF",
+  "med": 80,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb3a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Clint Capela",
+  "position": "C",
+  "med": 78,
+  "age": 27,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb3b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Danilo Gallinari",
+  "position": "PF",
+  "med": 75,
+  "age": 33,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb3c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Kevin Huerter",
+  "position": "SG",
+  "med": 72,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb3d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Onyeka Okongwu",
+  "position": "C",
+  "med": 70,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb3e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Lou Williams",
+  "position": "SG",
+  "med": 68,
+  "age": 35,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb3f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Cam Reddish",
+  "position": "SF",
+  "med": 66,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb40"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Gorgui Dieng",
+  "position": "C",
+  "med": 64,
+  "age": 31,
+  "contractLength": 1,
+  "salary": 10,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2233257b90ba2143fb41"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19b"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Jalen Johnson",
+  "position": "SF",
+  "med": 62,
+  "age": 20,
+  "contractLength": 2,
+  "salary": 8,
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:53:55.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d24428"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "LaMelo Ball",
+  "position": "PG",
+  "med": 88,
+  "age": 20,
+  "contractLength": 4,
+  "salary": 42,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d24429"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Gordon Hayward",
+  "position": "SF",
+  "med": 86,
+  "age": 32,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d2442a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Terry Rozier",
+  "position": "SG",
+  "med": 84,
+  "age": 27,
+  "contractLength": 2,
+  "salary": 38,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d2442b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Miles Bridges",
+  "position": "SF",
+  "med": 82,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d2442c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "PJ Washington",
+  "position": "PF",
+  "med": 80,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 32,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d2442d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Kelly Oubre Jr.",
+  "position": "SF",
+  "med": 78,
+  "age": 26,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d2442e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Mason Plumlee",
+  "position": "C",
+  "med": 76,
+  "age": 32,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d2442f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Ish Smith",
+  "position": "PG",
+  "med": 74,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d24430"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "James Bouknight",
+  "position": "SG",
+  "med": 72,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d24431"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Kai Jones",
+  "position": "C",
+  "med": 70,
+  "age": 20,
+  "contractLength": 2,
+  "salary": 15,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d24432"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "JT Thor",
+  "position": "PF",
+  "med": 68,
+  "age": 20,
+  "contractLength": 2,
+  "salary": 12,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22b196eca20ce4d24433"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19d"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Vernon Carey Jr.",
+  "position": "C",
+  "med": 66,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 10,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-03T01:56:01.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T01:56:01.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f44"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Zion Williamson",
+  "position": "PF",
+  "med": 90,
+  "age": 23,
+  "contractLength": 4,
+  "salary": 45,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f45"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Brandon Ingram",
+  "position": "SF",
+  "med": 88,
+  "age": 25,
+  "contractLength": 4,
+  "salary": 42,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f46"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Jonas Valančiūnas",
+  "position": "C",
+  "med": 86,
+  "age": 29,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f47"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Devonte' Graham",
+  "position": "PG",
+  "med": 84,
+  "age": 26,
+  "contractLength": 3,
+  "salary": 38,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f48"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Josh Hart",
+  "position": "SG",
+  "med": 82,
+  "age": 26,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f49"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Jaxson Hayes",
+  "position": "C",
+  "med": 80,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 32,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f4a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Nickeil Alexander-Walker",
+  "position": "SG",
+  "med": 78,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f4b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Herbert Jones",
+  "position": "SF",
+  "med": 76,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 28,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f4c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Willy Hernangómez",
+  "position": "C",
+  "med": 74,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f4d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Kira Lewis Jr.",
+  "position": "PG",
+  "med": 72,
+  "age": 20,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f4e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Naji Marshall",
+  "position": "SF",
+  "med": 70,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d241d36420fa3f3996f4f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19e"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Trey Murphy III",
+  "position": "SG",
+  "med": 68,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 16,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:02:05.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3f7"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Cade Cunningham",
+  "position": "PG",
+  "med": 88,
+  "age": 21,
+  "contractLength": 4,
+  "salary": 40,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3f8"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Jerami Grant",
+  "position": "SF",
+  "med": 86,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3f9"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Isaiah Stewart",
+  "position": "C",
+  "med": 82,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3fa"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Killian Hayes",
+  "position": "PG",
+  "med": 80,
+  "age": 20,
+  "contractLength": 3,
+  "salary": 28,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3fb"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Saddiq Bey",
+  "position": "SF",
+  "med": 78,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 26,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3fc"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Kelly Olynyk",
+  "position": "C",
+  "med": 76,
+  "age": 30,
+  "contractLength": 2,
+  "salary": 24,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3fd"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Cory Joseph",
+  "position": "PG",
+  "med": 74,
+  "age": 30,
+  "contractLength": 2,
+  "salary": 22,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3fe"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Frank Jackson",
+  "position": "SG",
+  "med": 72,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a3ff"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Hamidou Diallo",
+  "position": "SG",
+  "med": 70,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a400"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Josh Jackson",
+  "position": "SF",
+  "med": 68,
+  "age": 24,
+  "contractLength": 1,
+  "salary": 16,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2674c489bd44f302a401"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd19f"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Sabrina Trigueros",
+  "position": "C",
+  "med": 66,
+  "age": 21,
+  "contractLength": 1,
+  "salary": 14,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:12:04.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1520"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Bradley Beal",
+  "position": "SG",
+  "med": 90,
+  "age": 30,
+  "contractLength": 4,
+  "salary": 45,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.182Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1521"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Rui Hachimura",
+  "position": "PF",
+  "med": 84,
+  "age": 24,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1522"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Daniel Gafford",
+  "position": "C",
+  "med": 80,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 35,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1523"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Deni Avdija",
+  "position": "SF",
+  "med": 78,
+  "age": 20,
+  "contractLength": 3,
+  "salary": 30,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1524"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Ish Smith",
+  "position": "PG",
+  "med": 76,
+  "age": 33,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1525"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Thomas Bryant",
+  "position": "C",
+  "med": 74,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1526"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Davis Bertans",
+  "position": "PF",
+  "med": 72,
+  "age": 29,
+  "contractLength": 2,
+  "salary": 18,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1527"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Raul Neto",
+  "position": "PG",
+  "med": 70,
+  "age": 29,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2755e6297ad289df1528"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a0"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Cassius Winston",
+  "position": "PG",
+  "med": 68,
+  "age": 23,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:15:49.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd238"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Damian Lillard",
+  "position": "PG",
+  "med": 92,
+  "age": 32,
+  "contractLength": 4,
+  "salary": 50,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.199Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd239"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "CJ McCollum",
+  "position": "SG",
+  "med": 89,
+  "age": 30,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.202Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd23a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Jusuf Nurkic",
+  "position": "C",
+  "med": 85,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.202Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd23b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Norman Powell",
+  "position": "SF",
+  "med": 82,
+  "age": 29,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.202Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd23c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Robert Covington",
+  "position": "PF",
+  "med": 80,
+  "age": 31,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd23d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Anfernee Simons",
+  "position": "SG",
+  "med": 78,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd23e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Derrick Jones Jr.",
+  "position": "SF",
+  "med": 76,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 20,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd23f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Cody Zeller",
+  "position": "C",
+  "med": 74,
+  "age": 29,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d28b81a955ab68f9fd240"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a1"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Tony Snell",
+  "position": "SF",
+  "med": 72,
+  "age": 30,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:21:44.204Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:21:44.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad04"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Shai Gilgeous-Alexander",
+  "position": "PG",
+  "med": 90,
+  "age": 24,
+  "contractLength": 5,
+  "salary": 55,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.067Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad05"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Luguentz Dort",
+  "position": "SG",
+  "med": 87,
+  "age": 23,
+  "contractLength": 4,
+  "salary": 50,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad06"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Darius Bazley",
+  "position": "SF",
+  "med": 82,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad07"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Isaiah Roby",
+  "position": "PF",
+  "med": 78,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad08"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Kemba Walker",
+  "position": "PG",
+  "med": 76,
+  "age": 33,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad09"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Josh Giddey",
+  "position": "SG",
+  "med": 74,
+  "age": 19,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad0a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Theo Maledon",
+  "position": "PG",
+  "med": 72,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 25,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.069Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad0b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Tre Mann",
+  "position": "PG",
+  "med": 70,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.069Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d293eb1db37bf5181ad0c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a2"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Aaron Wiggins",
+  "position": "SF",
+  "med": 68,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:23:58.069Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:23:58.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a50"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Ja Morant",
+  "position": "PG",
+  "med": 92,
+  "age": 24,
+  "contractLength": 5,
+  "salary": 60,
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a51"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Jaren Jackson Jr.",
+  "position": "PF",
+  "med": 89,
+  "age": 23,
+  "contractLength": 4,
+  "salary": 55,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a52"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Dillon Brooks",
+  "position": "SG",
+  "med": 85,
+  "age": 26,
+  "contractLength": 4,
+  "salary": 50,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a53"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Steven Adams",
+  "position": "C",
+  "med": 82,
+  "age": 28,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a54"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Desmond Bane",
+  "position": "SG",
+  "med": 79,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 40,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a55"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Kyle Anderson",
+  "position": "SF",
+  "med": 76,
+  "age": 28,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a56"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Tyus Jones",
+  "position": "PG",
+  "med": 73,
+  "age": 25,
+  "contractLength": 2,
+  "salary": 30,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a57"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Ziaire Williams",
+  "position": "SF",
+  "med": 70,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a58"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Brandon Clarke",
+  "position": "PF",
+  "med": 67,
+  "age": 24,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d29b16cfb4ef540908a59"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a4"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Killian Tillie",
+  "position": "PF",
+  "med": 65,
+  "age": 23,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:25:53.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a1d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Nikola Jokic",
+  "position": "C",
+  "med": 95,
+  "age": 28,
+  "contractLength": 5,
+  "salary": 65,
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a1e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Jamal Murray",
+  "position": "PG",
+  "med": 90,
+  "age": 25,
+  "contractLength": 4,
+  "salary": 60,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a1f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Michael Porter Jr.",
+  "position": "SF",
+  "med": 88,
+  "age": 23,
+  "contractLength": 4,
+  "salary": 55,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a20"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Aaron Gordon",
+  "position": "PF",
+  "med": 85,
+  "age": 26,
+  "contractLength": 3,
+  "salary": 50,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a21"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Monte Morris",
+  "position": "PG",
+  "med": 82,
+  "age": 26,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a22"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Will Barton",
+  "position": "SG",
+  "med": 78,
+  "age": 30,
+  "contractLength": 2,
+  "salary": 40,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a23"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Paul Millsap",
+  "position": "PF",
+  "med": 75,
+  "age": 37,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a24"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "PJ Dozier",
+  "position": "SG",
+  "med": 72,
+  "age": 25,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a25"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "JaMychal Green",
+  "position": "PF",
+  "med": 69,
+  "age": 31,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 2.7,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2aa60cc380b85a459a26"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a5"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Bol Bol",
+  "position": "C",
+  "med": 67,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 2.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:29:58.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b1"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Collin Sexton",
+  "position": "PG",
+  "med": 88,
+  "age": 24,
+  "contractLength": 4,
+  "salary": 55,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b2"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Darius Garland",
+  "position": "PG",
+  "med": 85,
+  "age": 22,
+  "contractLength": 3,
+  "salary": 50,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b3"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Jarrett Allen",
+  "position": "C",
+  "med": 82,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 48,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b4"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Isaac Okoro",
+  "position": "SF",
+  "med": 80,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b5"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Kevin Love",
+  "position": "PF",
+  "med": 78,
+  "age": 33,
+  "contractLength": 2,
+  "salary": 40,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b6"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Ricky Rubio",
+  "position": "PG",
+  "med": 75,
+  "age": 31,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b7"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Cedi Osman",
+  "position": "SF",
+  "med": 72,
+  "age": 26,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b8"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Lauri Markkanen",
+  "position": "PF",
+  "med": 70,
+  "age": 24,
+  "contractLength": 1,
+  "salary": 17,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5b9"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Evan Mobley",
+  "position": "PF",
+  "med": 68,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b3012121a647810d5ba"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a6"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Jarrett Culver",
+  "position": "SG",
+  "med": 66,
+  "age": 23,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 2.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:32:16.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b4599"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "D'Angelo Russell",
+  "position": "PG",
+  "med": 88,
+  "age": 26,
+  "contractLength": 3,
+  "salary": 55,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.109Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b459a"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Anthony Edwards",
+  "position": "SG",
+  "med": 85,
+  "age": 20,
+  "contractLength": 3,
+  "salary": 50,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b459b"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Karl-Anthony Towns",
+  "position": "C",
+  "med": 82,
+  "age": 25,
+  "contractLength": 3,
+  "salary": 48,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b459c"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jaden McDaniels",
+  "position": "SF",
+  "med": 80,
+  "age": 21,
+  "contractLength": 2,
+  "salary": 45,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b459d"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Malik Beasley",
+  "position": "SG",
+  "med": 78,
+  "age": 24,
+  "contractLength": 2,
+  "salary": 40,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b459e"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Patrick Beverley",
+  "position": "PG",
+  "med": 75,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b459f"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Josh Okogie",
+  "position": "SG",
+  "med": 72,
+  "age": 23,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b45a0"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Taurean Prince",
+  "position": "PF",
+  "med": 70,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 17,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b45a1"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jarred Vanderbilt",
+  "position": "PF",
+  "med": 68,
+  "age": 23,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2b8b9d273ce9c49b45a2"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a7"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Jaylen Nowell",
+  "position": "SG",
+  "med": 66,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 12,
+  "rating": 2.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:33:47.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0da"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Markelle Fultz",
+  "position": "PG",
+  "med": 85,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 50,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.576Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0db"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "Cole Anthony",
+  "position": "SG",
+  "med": 82,
+  "age": 21,
+  "contractLength": 3,
+  "salary": 48,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0dc"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Jonathan Isaac",
+  "position": "PF",
+  "med": 80,
+  "age": 23,
+  "contractLength": 3,
+  "salary": 45,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0dd"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Chuma Okeke",
+  "position": "SF",
+  "med": 78,
+  "age": 22,
+  "contractLength": 2,
+  "salary": 40,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0de"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Mo Bamba",
+  "position": "C",
+  "med": 75,
+  "age": 23,
+  "contractLength": 2,
+  "salary": 35,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0df"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf02bdc918a998e2cc0ad"
+  },
+  "name": "Gary Harris",
+  "position": "SG",
+  "med": 72,
+  "age": 27,
+  "contractLength": 1,
+  "salary": 25,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0e0"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf044dc918a998e2cc0af"
+  },
+  "name": "R.J. Hampton",
+  "position": "PG",
+  "med": 70,
+  "age": 21,
+  "contractLength": 1,
+  "salary": 23,
+  "rating": 2.8,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0e1"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf053dc918a998e2cc0b1"
+  },
+  "name": "Wendell Carter Jr.",
+  "position": "C",
+  "med": 68,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 20,
+  "rating": 2.6,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0e2"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Terrence Ross",
+  "position": "SF",
+  "med": 66,
+  "age": 30,
+  "contractLength": 1,
+  "salary": 18,
+  "rating": 2.4,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d2be8c88abb94c9d7e0e3"
+  },
+  "idTeam": {
+    "$oid": "665cff7fda591cb24e7fd1a8"
+  },
+  "idStyle": {
+    "$oid": "665cf06cdc918a998e2cc0b5"
+  },
+  "name": "Robin Lopez",
+  "position": "C",
+  "med": 64,
+  "age": 33,
+  "contractLength": 1,
+  "salary": 15,
+  "rating": 2.2,
+  "createdAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T02:35:20.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c197268"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jalen Green",
+  "position": "SG",
+  "med": 75,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c197269"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Evan Mobley",
+  "position": "C",
+  "med": 78,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c19726a"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Cade Cunningham",
+  "position": "PG",
+  "med": 80,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c19726b"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jalen Suggs",
+  "position": "PG",
+  "med": 77,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c19726c"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jonathan Kuminga",
+  "position": "SF",
+  "med": 76,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c19726d"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Scottie Barnes",
+  "position": "PF",
+  "med": 73,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c19726e"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Davion Mitchell",
+  "position": "PG",
+  "med": 75,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c19726f"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Franz Wagner",
+  "position": "SF",
+  "med": 72,
+  "age": 21,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c197270"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Moses Moody",
+  "position": "SG",
+  "med": 71,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d19ce7ec28e5c197271"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Kai Jones",
+  "position": "PF",
+  "med": 70,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:48:41.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d883a33723d2bdbc058"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Corey Kispert",
+  "position": "SF",
+  "med": 74,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.053Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.053Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc059"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Keon Johnson",
+  "position": "SG",
+  "med": 70,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc05a"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Chris Duarte",
+  "position": "SG",
+  "med": 73,
+  "age": 24,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc05b"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Josh Giddey",
+  "position": "PG",
+  "med": 72,
+  "age": 18,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc05c"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Ziaire Williams",
+  "position": "SF",
+  "med": 71,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc05d"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Alperen Sengun",
+  "position": "C",
+  "med": 71,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc05e"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jared Butler",
+  "position": "PG",
+  "med": 70,
+  "age": 21,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc05f"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Cam Thomas",
+  "position": "SG",
+  "med": 69,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc060"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Day'Ron Sharpe",
+  "position": "C",
+  "med": 68,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3d893a33723d2bdbc061"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Isaiah Jackson",
+  "position": "PF",
+  "med": 67,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T03:50:33.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:50:33.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc87"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jalen Johnson",
+  "position": "SF",
+  "med": 72,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.515Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.515Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc88"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Sharife Cooper",
+  "position": "PG",
+  "med": 70,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc89"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Tre Mann",
+  "position": "PG",
+  "med": 69,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc8a"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Isaiah Todd",
+  "position": "PF",
+  "med": 68,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.6,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc8b"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Josh Christopher",
+  "position": "SG",
+  "med": 67,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc8c"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Daishen Nix",
+  "position": "PG",
+  "med": 66,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc8d"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Herb Jones",
+  "position": "SF",
+  "med": 65,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc8e"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Jeremiah Robinson-Earl",
+  "position": "PF",
+  "med": 64,
+  "age": 20,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc8f"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "Joel Ayayi",
+  "position": "SG",
+  "med": 63,
+  "age": 22,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d3de50a279c5dc486bc90"
+  },
+  "idTeam": {
+    "$oid": "665d3b5646b637bf83328410"
+  },
+  "idStyle": {
+    "$oid": "665cf060dc918a998e2cc0b3"
+  },
+  "name": "B.J. Boston",
+  "position": "SG",
+  "med": 62,
+  "age": 19,
+  "contractLength": 1,
+  "salary": 6,
+  "rating": 3,
+  "createdAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T03:52:05.517Z"
+  }
+}]
